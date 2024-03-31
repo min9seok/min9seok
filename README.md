@@ -43,7 +43,7 @@
   
    <br>
   
-![min9seok's GitHub stats](https://github-readme-stats.vercel.app/api?username=min9seok&theme=omni&show_icons=true)
+![minseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=min9seok&theme=omni&show_icons=true)
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmin9seok&count_bg=%238B65AE&title_bg=%23B3B0B4&icon=&icon_color=%23CFC7C7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
